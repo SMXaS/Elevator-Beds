@@ -1,0 +1,9 @@
+C:\Users\SMXaS\Desktop\C# Elevator app\Lift\Lift\bin\Debug\Lift.exe.config
+C:\Users\SMXaS\Desktop\C# Elevator app\Lift\Lift\bin\Debug\Lift.exe
+C:\Users\SMXaS\Desktop\C# Elevator app\Lift\Lift\bin\Debug\Lift.pdb
+C:\Users\SMXaS\Desktop\C# Elevator app\Lift\Lift\obj\Debug\Lift.csprojAssemblyReference.cache
+C:\Users\SMXaS\Desktop\C# Elevator app\Lift\Lift\obj\Debug\Lift.backGround.resources
+C:\Users\SMXaS\Desktop\C# Elevator app\Lift\Lift\obj\Debug\Lift.Properties.Resources.resources
+C:\Users\SMXaS\Desktop\C# Elevator app\Lift\Lift\obj\Debug\Lift.csproj.GenerateResource.cache
+C:\Users\SMXaS\Desktop\C# Elevator app\Lift\Lift\obj\Debug\Lift.exe
+C:\Users\SMXaS\Desktop\C# Elevator app\Lift\Lift\obj\Debug\Lift.pdb
